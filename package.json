@@ -1,5 +1,5 @@
 {
-    "name": "@whiskeysockets/baileys",
+    "name": "@Dapzsyzofc/baileys",
     "version": "2.1",
     "description": "WhatsApp Modified By DapzSYZ Official",
     "keywords": [
@@ -100,8 +100,5 @@
     "packageManager": "yarn@1.22.19",
     "engines": {
         "node": ">=20.0.0"
-    }, 
-    "bugs": {
-      "url": "https://github.com/rizzDeveloperz/baileys/issues"
     }
 }
