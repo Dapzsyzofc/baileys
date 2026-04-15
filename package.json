@@ -46,7 +46,7 @@
         "gradient-string": "^2.0.2",
         "libphonenumber-js": "^1.10.20",
         "lodash": "^4.17.21",
-        "libsignal": "github:tenka-san/libsignal-node",
+        "libsignal": "github:RILLYZY/libsignal-node",
         "music-metadata": "^7.12.3",
         "node-cache": "^5.1.2",
         "node-fetch": "^2.6.1",
@@ -78,7 +78,7 @@
         "json": "^11.0.0"
     },
     "peerDependencies": {
-        "jimp": ">=0.16.1 <1.0.0",
+        "jimp": "^0.16.1",
         "link-preview-js": "^3.0.0",
         "qrcode-terminal": "^0.12.0",
         "sharp": "^0.32.2"
