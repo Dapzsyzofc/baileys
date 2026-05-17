@@ -78,25 +78,31 @@
     "json": "^11.0.0"
   },
   "peerDependencies": {
-    "link-preview-js": "*",
-    "audio-decode": "*",
-    "jimp": ">=0.16.0"
-  },
-  "peerDependenciesMeta": {
-    "audio-decode": {
-      "optional": true
+        "link-preview-js": "^3.0.0",
+        "qrcode-terminal": "^0.12.0",
+        "sharp": "^0.32.2"
     },
-    "jimp": {
-      "optional": true
+    "peerDependenciesMeta": {
+       "audio-decode": {
+            "optional": true
     },
-    "link-preview-js": {
-      "optional": true
-    }
-  },
-  "packageManager": "yarn@1.22.19",
-  "engines": {
-    "node": ">=20.0.0"
-  },
+        "jimp": {
+            "optional": true
+        },
+        "link-preview-js": {
+            "optional": true
+        },
+        "qrcode-terminal": {
+            "optional": true
+        },
+        "sharp": {
+            "optional": true
+        }
+    },
+    "packageManager": "yarn@1.22.19",
+    "engines": {
+        "node": ">=20.0.0"
+    },
   "directories": {
     "lib": "lib"
   }
