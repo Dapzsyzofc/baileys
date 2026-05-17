@@ -19,6 +19,7 @@
   },
   "license": "MIT",
   "author": "DapzSYZ",
+  "type": "module",
   "main": "./lib/index.js",
   "files": [
     "lib/*",
@@ -38,6 +39,7 @@
   "dependencies": {
     "@whiskeysockets/eslint-config": "github:whiskeysockets/eslint-config",
     "@cacheable/node-cache": "*",
+    "chalk": "^4.1.2",
     "gradient-string": "2.0.2",
     "libsignal-xeuka": "*",
     "moment-timezone": "*",
